@@ -25,7 +25,7 @@ In addition to the Brent oil price dataset, relevant historical events were iden
 - seaborn: Statistical visualizations.
 - scikit-learn
 
-**Installation**
+## Installation
 
 1. Create a virtual environment:
 
@@ -43,7 +43,7 @@ on windows:
 ``` pip install -r requirements.txt```
 
 
-**Contribution**
+## Contribution
 
 Contributions are welcome!
 
