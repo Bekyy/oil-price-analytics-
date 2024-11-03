@@ -28,6 +28,7 @@ In addition to the Brent oil price dataset, relevant historical events were iden
 **Installation**
 
 1. Create a virtual environment:
+
 On macOS/Linux:
 
 ```python -m venv venv```
@@ -41,7 +42,7 @@ on windows:
 ``` pip install -r requirements.txt```
 
 
-**Contributing**
+**Contribution**
 
 Contributions are welcome!
 
